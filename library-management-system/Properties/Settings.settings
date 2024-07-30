@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="library_management_system.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connectionString" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Server=localhost;Database=db_library;Uid=root;Pwd=root;Port=3306;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
